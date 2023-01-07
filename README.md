@@ -1,6 +1,1 @@
-# SpringCore
-# SpringCore
-# SpringCore
-# SpringCoreMediaPlayer
-# SpringCoreMediaPlayer
-# SpringCoreMediaPlayer
+#Tests how github works :)
